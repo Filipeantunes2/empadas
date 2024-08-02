@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 0px 0;
+    color: #f97d00;
+}
+.navbar{
+text-align: center;
+}
+
